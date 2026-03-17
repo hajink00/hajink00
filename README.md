@@ -1,5 +1,5 @@
 ## Hi there 👋 아무거나 qwdqwd
-Feature/a 기능 개발 완료
+Feature/b 기능 개발 완료
 
 <!--
 **hajink00/hajink00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
